@@ -1,0 +1,15 @@
+{
+  "name": "pem-to-installation-access-token",
+  "version": "1.0.0",
+  "description": "Convert a GitHub PEM to Installation Access Token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imjohnbo",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/app": "^3.0.1",
+    "node-fetch": "^2.6.0"
+  }
+}
