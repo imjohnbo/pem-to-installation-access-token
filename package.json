@@ -1,5 +1,5 @@
 {
-  "name": "pem-to-installation-access-token",
+  "name": "@imjohnbo/pem-to-installation-access-token",
   "version": "1.0.0",
   "description": "Convert a GitHub PEM to Installation Access Token",
   "main": "index.js",
@@ -8,6 +8,7 @@
   },
   "author": "imjohnbo",
   "license": "ISC",
+  "repository": "https://github.com/imjohnbo/pem-to-installation-access-token",
   "dependencies": {
     "@octokit/app": "^3.0.1",
     "node-fetch": "^2.6.0"
