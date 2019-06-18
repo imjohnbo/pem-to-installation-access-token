@@ -9,4 +9,5 @@ action "Publish" {
   env = {
     NPM_REGISTRY_URL = "\"npm.pkg.github.com\""
   }
+  args = "publish --access public"
 }
