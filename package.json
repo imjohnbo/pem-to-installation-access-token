@@ -1,6 +1,6 @@
 {
   "name": "@imjohnbo/pem-to-installation-access-token",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a GitHub PEM to Installation Access Token",
   "main": "index.js",
   "scripts": {
